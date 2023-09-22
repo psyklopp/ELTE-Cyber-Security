@@ -1,6 +1,6 @@
 ## Home
 
-This site is still under construction. [About this page](./about.md)
+This site is still under construction. [About this page](./about.html)
 
 > I will update about any news here - like we have homework for 3 subjects below
 > 
