@@ -1,10 +1,10 @@
----
-layout: default
----
+This site is still under construction
 
-## Home
+> Watch out the space for updates
+>
+> I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. Will decide.
 
-[About this page](./about.html)
+# Home
 
 > I will update about any news here - like we have homework for 3 subjects below
 > 
