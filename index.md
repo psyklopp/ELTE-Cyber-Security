@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 ## Home
+
+[About this page](./about.html)
 
 > I will update about any news here - like we have homework for 3 subjects below
 > 

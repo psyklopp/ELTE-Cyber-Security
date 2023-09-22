@@ -1,4 +1,8 @@
-# About this site
+---
+layout: default
+---
+
+## About this site
 
 This is still under construction.
 
