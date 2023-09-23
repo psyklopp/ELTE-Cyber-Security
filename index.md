@@ -1,4 +1,4 @@
-This site is still under construction. Some [words](./about.html) about this website
+This site is still under construction. Some <ins>[words](./about.html)</ins> about this website
 
 > Watch out the space for updates
 >
