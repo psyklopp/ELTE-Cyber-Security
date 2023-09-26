@@ -4,50 +4,28 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 >
 > I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. Will decide.
 
-# Week 2 > Sept 18 - 22
+# Week 3 > Sept 25 - 29
 
-## Friday - Sept 22
+## Monday - Sept 25
 
-### Cryptography Protocols
+### Cryptography - Practice - Semester 1 subject
 
-*   A tiny example to show the development of a cryptography protocol
-*   Protocol verification with Proverif with examples
+*  We didn't study any new topic
+*  Discussed the first exercise sheet
+*  Uploaded to canvas - Also homework from last week left
 
-I missed the first hour of the lecture because I thought it was supposed to start at 11:00 A.M. (like the meeting said)
-
-## Thursday - Sept 21
-
-### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
-
-*   Adversary models
-*   Fundamental tools/definitions
-*   Indistinguishability
-*   Secure Message Transmission
-*   **Homework**
-
-The document he uses to teach, is different from what we are given. Thoughts?
-
-## Wednesday - Sept 20
-
-No classes for me
-
-## Tuesday - Sept 19
+## Tuesday - Sept 26
 
 ### Advanced Cryptography - Lecture and Practice
 
-*   I don't have the practice part and didn't attend the lecture. You can contribute to here!
+*  Zero Knowledge proof, Matrix multiplication
 
-### Cryptography Protocols - Practice
+# Previous Weeks
 
-*   How to use Proverif
-*   Example
-*   **Homework**
+### Week 2 
 
-All the slides and resources were uploaded to Canvas. Check it!
+<ins>[Click here](./week_2.html)</ins>
 
-## Monday - Sept 18
+### Week 1 - Under construction
 
-### Cryptography - Practice
-
-*   All about the Enigma machine
-*   **Homework**
+<ins>[Click here](./week_1.html)</ins>
