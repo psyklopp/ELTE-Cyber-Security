@@ -16,9 +16,12 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Tuesday - Sept 26
 
-### Advanced Cryptography - Lecture and Practice
+### Advanced Cryptography - Lecture
 
 *  Zero Knowledge proof, Matrix multiplication
+*  SAT problem, Penney's game, 3-coloring of graph - and how it relates to the SAT problem (Boolean SATisfiability)
+*  IP (interactive proof) for counting triangles in a graph
+*  Next time - Fiat Shamir
 
 # Previous Weeks
 
