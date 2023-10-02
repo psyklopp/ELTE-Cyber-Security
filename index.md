@@ -4,31 +4,43 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 >
 > I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. Will decide.
 
-# Week 3 > Sept 25 - 29
+# Week 4 > Oct 02 - 06
 
-## Monday - Sept 25
+## Monday - Oct 02
 
 ### Cryptography - Practice - Semester 1 subject
 
-*  We didn't study any new topic
-*  Discussed the first exercise sheet
-*  Uploaded to canvas - Also homework from last week left
+*   Discussed a worksheet
+*   Teacher shared answers and explanations. But not for all questions
+*   In Canvas
 
-## Tuesday - Sept 26
+## Tuesday - Oct 03
 
 ### Advanced Cryptography - Lecture
 
-*  Zero Knowledge proof, Matrix multiplication
-*  SAT problem, Penney's game, 3-coloring of graph - and how it relates to the SAT problem (Boolean SATisfiability)
-*  IP (interactive proof) for counting triangles in a graph
-*  Next time - Fiat Shamir
+### Cryptography Protocols - Practice
+
+## Wednesday - Oct 04 - Free for me
+
+## Thursday - Oct 05
+
+### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
+
+## Friday - Oct 06
+
+### Cryptography Protocols - Lecture
+
 
 # Previous Weeks
 
-### Week 2 
+### Week 3 - Sept 25-29
+
+<ins>[Click here](./week_3.html)</ins>
+
+### Week 2 - Sept 18-22
 
 <ins>[Click here](./week_2.html)</ins>
 
-### Week 1 - Under construction
+### Week 1 - Sept 11-15
 
 <ins>[Click here](./week_1.html)</ins>
