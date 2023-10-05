@@ -6,6 +6,12 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 # Week 4 > Oct 02 - 06
 
+# <ins>HOMEWORK</ins>
+
+*  Implement the secure handshake protocol in proverif - Cryptography Protocols
+*  Implement the Nomenclator cipher - Canvas - Cryptography Pr.
+*  Plan a little for Cyber Security Lab - the topic is already chosen
+
 ## Monday - Oct 02
 
 ### Cryptography - Practice - Semester 1 subject
@@ -34,6 +40,16 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ## Thursday - Oct 05
 
 ### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
+
+*  1.1.1 IND-CPA/CCA Security - Examples in RSA and El-Gamal
+*  El-Gamal is CCA insecure - [Wiki](https://en.wikipedia.org/wiki/ElGamal_encryption#Security)
+*  1.1.2 EU-CMA - Existential Unforgeability Chosen Message Attack - Eg RSA [Purdue](https://www.cs.purdue.edu/homes/ninghui/courses/Fall05/lectures/355_Fall05_lect30.pdf), [Reddit](https://www.reddit.com/r/crypto/comments/mzv1q6/can_someone_explain_an_existential_forgery_attack/)
+*  RSA is not EU-CMA secure - Hash-and-Sign with RSA is secure
+*  One-way trapdoor functions - [StackExchange](https://crypto.stackexchange.com/questions/101391/where-is-the-definition-of-one-way-trap-door-function-used-in-public-key-cryptog)
+*  1.1.3 Secure key-exchange
+*  Message Authentication Codes (MAC) - [Simple explanation](https://www.tutorialspoint.com/cryptography/message_authentication.htm)
+*  1.2 Secure computation - Secure Multi-Party Computation (SMC) - Oblivious Transfer - ZKP - Secret auction bid
+*  Security requirements of SMC + other properties
 
 ## Friday - Oct 06
 
