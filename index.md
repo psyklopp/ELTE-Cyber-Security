@@ -11,6 +11,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *  Implement the secure handshake protocol in proverif - Cryptography Protocols
 *  Implement the Nomenclator cipher - Canvas - Cryptography Pr.
 *  Plan a little for Cyber Security Lab - the topic is already chosen
+*  Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas
 
 ## Monday - Oct 02
 
@@ -55,6 +56,11 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ### Cryptography Protocols - Lecture
 
+*  Key-establishment
+*  Diffie-Hellman Protocol - weakness + more secure version
+*  DDH and CDH Assumptions
+*  Quadratic Residue
+*  **There might be a little quiz next week**
 
 # Previous Weeks
 
