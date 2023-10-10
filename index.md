@@ -4,7 +4,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 >
 > I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. They can be found at the bottom of the page
 
-# Week 5 > Oct 09 - 14
+# Week 5 > Oct 09 - 13
 
 # <ins>HOMEWORK</ins>
 
@@ -14,26 +14,26 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *  Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas
 *  Provably Secure Modular Design of Cryptographic Protocols - HW Assignment
 
-## Monday - Oct 02
+## Monday - Oct 09
 
 ### Cryptography - Practice - Semester 1 subject
 
 *   Continued on the previous worksheet
 *   And started on other one - Uploaded in Canvas
 
-## ~~Tuesday - Oct 03~~ Didn't attend :upside_down_face:
+## ~~Tuesday - Oct 10~~ Didn't attend :upside_down_face:
 
 ### Advanced Cryptography - Lecture
 
 ### Cryptography Protocols - Practice
 
-## Wednesday - Oct 04 - Free for me
+## Wednesday - Oct 11 - Free for me
 
-## Thursday - Oct 05
+## Thursday - Oct 12
 
 ### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
-## Friday - Oct 06
+## Friday - Oct 13
 
 ### Cryptography Protocols - Lecture
 
