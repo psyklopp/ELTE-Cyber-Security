@@ -21,7 +21,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   Continued on the previous worksheet
 *   And started on other one - Uploaded in Canvas
 
-## ~~Tuesday - Oct 10~~ Didn't attend :upside_down_face:
+## ~~Tuesday - Oct 10~~ Didn't attend
 
 ### Advanced Cryptography - Lecture
 
