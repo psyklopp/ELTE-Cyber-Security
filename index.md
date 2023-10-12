@@ -33,6 +33,10 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
+*  1.2.1 Commitments - Digital envelop - Binding and Hiding - [Good Medium article](https://medium.com/@icostan/commitment-schemes-8b523d48aa1e)
+*  Commitment schemes - Hash based - ElGamal encryption based - Trapdoor permutation based (Goldwasser Micali) - Homomorphism RSA - Pedersen - Peikert's Scheme
+*  1.2.2 Zero-Knowledge-Proofs
+
 ## Friday - Oct 13
 
 ### Cryptography Protocols - Lecture
