@@ -41,6 +41,12 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ### Cryptography Protocols - Lecture
 
+*  Quiz-1
+*  Elliptic Curve Cryptography
+*  Basics using clock addition
+*  Clock over finite fields - problems
+*  Edwards curve - [Wiki](https://en.wikipedia.org/wiki/Edwards_curve)
+*  Elliptic curve -  Weierstrass form
 
 # Previous Weeks
 
