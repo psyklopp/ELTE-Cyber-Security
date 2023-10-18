@@ -4,51 +4,48 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 >
 > I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. They can be found at the bottom of the page
 
-# Week 5 > Oct 09 - 13
+# Week 6 > Oct 16 - Oct 20
 
 # <ins>HOMEWORK</ins>
 
+*  Plan a little for Cyber Security Lab - the topic is already chosen
 *  ~~Implement the secure handshake protocol in proverif - Cryptography Protocols~~ Found the running example. Understand the working
 *  ~~Implement the Nomenclator cipher - Canvas - Cryptography Pr.~~
-*  Plan a little for Cyber Security Lab - the topic is already chosen
-*  Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas
-*  Provably Secure Modular Design of Cryptographic Protocols - HW Assignment
+*  ~~Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas~~
+*  ~~Provably Secure Modular Design of Cryptographic Protocols - HW Assignment~~
 
-## Monday - Oct 09
+## Monday - Oct 16
 
 ### Cryptography - Practice - Semester 1 subject
 
-*   Continued on the previous worksheet
-*   And started on other one - Uploaded in Canvas
+*  Worksheet in progress. Started questions on PRG.
 
-## ~~Tuesday - Oct 10~~ Didn't attend
+## Tuesday - Oct 17
 
 ### Advanced Cryptography - Lecture
 
+*   All about ZKP
+
 ### Cryptography Protocols - Practice
 
-## Wednesday - Oct 11 - Free for me
+*   Didn't take place
+*   The lecture part was held instead. Recording was also saved.
 
-## Thursday - Oct 12
+## Wednesday - Oct 18 - Free for me
+
+## Thursday - Oct 19
 
 ### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
-*  1.2.1 Commitments - Digital envelop - Binding and Hiding - [Good Medium article](https://medium.com/@icostan/commitment-schemes-8b523d48aa1e)
-*  Commitment schemes - Hash based - ElGamal encryption based - Trapdoor permutation based (Goldwasser Micali) - Homomorphism RSA - Pedersen - Peikert's Scheme
-*  1.2.2 Zero-Knowledge-Proofs
-
-## Friday - Oct 13
+## Friday - Oct 20
 
 ### Cryptography Protocols - Lecture
 
-*  Quiz-1
-*  Elliptic Curve Cryptography
-*  Basics using clock addition
-*  Clock over finite fields - problems
-*  Edwards curve - [Wiki](https://en.wikipedia.org/wiki/Edwards_curve)
-*  Elliptic curve -  Weierstrass form
-
 # Previous Weeks
+
+### Week 5 > Oct 09 - 13
+
+<ins>[Click here](./week_5.html)</ins>
 
 ### Week 4 > Oct 02 - 06
 
