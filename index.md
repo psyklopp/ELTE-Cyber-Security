@@ -9,7 +9,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 # <ins>HOMEWORK</ins>
 
 *  Plan a little for Cyber Security Lab - the topic is already chosen
-*  ~~Implement the secure handshake protocol in proverif - Cryptography Protocols~~ Found the running example. Understand the working
+*  ~~Implement the secure handshake protocol in proverif - Cryptography Protocols~~ ~~Found the running example. Understand the working~~
 *  ~~Implement the Nomenclator cipher - Canvas - Cryptography Pr.~~
 *  ~~Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas~~
 *  ~~Provably Secure Modular Design of Cryptographic Protocols - HW Assignment~~
@@ -37,9 +37,15 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
+*  ZKP
+*  Started on SMC
+*  Section 1.2 mainly
+
 ## Friday - Oct 20
 
 ### Cryptography Protocols - Lecture
+
+*  Already took place on Oct 17
 
 # Previous Weeks
 
