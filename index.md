@@ -4,50 +4,55 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 >
 > I am going to post the latest week's updates on the homepage and maybe move the previous one to a separate page. They can be found at the bottom of the page
 
-# Week 6 > Oct 16 - Oct 20
+> **Nov 15 Update** : I had problem in one of my tooth and that kinda derailed me from keeping up with posting weekly items 
+> But since it is the end of the semester, I will just keep track of the assignments/tests/projects here and organise them
 
-# <ins>HOMEWORK</ins>
 
-*  Plan a little for Cyber Security Lab - the topic is already chosen
-*  ~~Implement the secure handshake protocol in proverif - Cryptography Protocols~~ ~~Found the running example. Understand the working~~
-*  ~~Implement the Nomenclator cipher - Canvas - Cryptography Pr.~~
-*  ~~Prepare for a little quiz in Cryptography Protocols Lec. - all slides in Canvas~~
-*  ~~Provably Secure Modular Design of Cryptographic Protocols - HW Assignment~~
+## Cyber Security Lab 1
 
-## Monday - Oct 16
+*   Refer and update here: <ins>[GitHub Repo for CS Lab](https://github.com/psyklopp/Cyber-Security-Lab-1)</ins>
+*   November end - Give an update
 
-### Cryptography - Practice - Semester 1 subject
+## Advanced Cryptography - Lecture
 
-*  Worksheet in progress. Started questions on PRG.
+*   Presentation on the topic: <ins>[Demystifying the Role of zk-SNARKs in Zcash](https://arxiv.org/pdf/2008.00881.pdf)</ins>
+*   Deadline for submission : **January 15, 2024**
 
-## Tuesday - Oct 17
+## Cryptography Protocols - Lecture
 
-### Advanced Cryptography - Lecture
+*   November 17 - Quiz 2
+*   December 08 - Quiz 3
+*   December 15 - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
 
-*   All about ZKP
+## Cryptography Protocols - Practice
 
-### Cryptography Protocols - Practice
+*   December 05 - Summary report, Proverif code, Presentation
+*   Verify the security property of Attribute-based Encryption - <ins>[Paper](./Security_Verification_of_Key_Exchange_in_Ciphertext-Policy_Attribute_Based_Encryption.pdf)</ins>
 
-*   Didn't take place
-*   The lecture part was held instead. Recording was also saved.
+## Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
-## Wednesday - Oct 18 - Free for me
+*   November 23 - Test
 
-## Thursday - Oct 19
+## Cryptography - Lecture
 
-### Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
+*   Only an Oral exam
+*   **Date** - Not known. Ask classmates
 
-*  ZKP
-*  Started on SMC
-*  Section 1.2 mainly
+## Cryptography - Practice
 
-## Friday - Oct 20
+*   Test and Assigments
+*   Ask about the date - redo the worksheets
 
-### Cryptography Protocols - Lecture
+## Others
 
-*  Already took place on Oct 17
+*   Thesis registration form - December 01, 2023
+*   Consult with supervisor and choose the contents
 
 # Previous Weeks
+
+### Week 6 > Oct 16 - 20
+
+<ins>[Click here](./week_6.html)</ins>
 
 ### Week 5 > Oct 09 - 13
 
