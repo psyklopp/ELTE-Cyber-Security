@@ -20,18 +20,18 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Cryptography Protocols - Lecture
 
-*   November 17 - Quiz 2
-*   December 08 - Quiz 3
-*   December 15 - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
+*   ~~November 17 - Quiz 2~~
+*   **December 08** - Quiz 3
+*   **December 15** - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
 
 ## Cryptography Protocols - Practice
 
-*   December 05 - Summary report, Proverif code, Presentation
+*   **December 05** - Summary report, Proverif code, Presentation
 *   Verify the security property of Attribute-based Encryption - <ins>[Paper](./Security_Verification_of_Key_Exchange_in_Ciphertext-Policy_Attribute_Based_Encryption.pdf)</ins>
 
 ## Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
-*   November 23 - Test
+*   **November 23** - Test
 
 ## Cryptography - Lecture
 
@@ -45,7 +45,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Others
 
-*   Thesis registration form - December 01, 2023
+*   Thesis registration form - **December 01**, 2023
 *   Consult with supervisor and choose the contents
 
 # Previous Weeks
