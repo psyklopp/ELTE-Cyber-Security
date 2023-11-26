@@ -31,7 +31,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
 
-*   **November 23** - Test
+*   ~~**November 23** - Test~~
 
 ## Cryptography - Lecture
 
