@@ -41,6 +41,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ## Cryptography - Practice
 
 *   Test and Assigments
+*   **December 11 - Exam**
 *   Ask about the date - redo the worksheets
 
 ## Others
