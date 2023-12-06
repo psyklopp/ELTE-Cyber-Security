@@ -11,7 +11,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ## Cyber Security Lab 1
 
 *   Refer and update here: <ins>[GitHub Repo for CS Lab](https://github.com/psyklopp/Cyber-Security-Lab-1)</ins>
-*   November end - Give an update
+*   ☑️ November end - Give an update
 
 ## Advanced Cryptography - Lecture
 
@@ -24,11 +24,6 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   **December 08** - Quiz 3
 *   **December 15** - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
 
-## Cryptography Protocols - Practice
-
-*   **December 05** - Summary report, Proverif code, Presentation
-*   Verify the security property of Attribute-based Encryption - <ins>[Paper](./Security_Verification_of_Key_Exchange_in_Ciphertext-Policy_Attribute_Based_Encryption.pdf)</ins>
-
 ## Cryptography - Lecture
 
 *   Only an Oral exam
@@ -36,18 +31,23 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Cryptography - Practice
 
-*   Test and Assigments
-*   **December 11 - Exam**
-*   Ask about the date - redo the worksheets
+*   Test and Assigments - redo the worksheets
+*   **December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session
+*   ~~Ask about the date~~ 
 
-# Others
+### Others
 
-*   Thesis registration form - **December 01**, 2023
-*   Consult with supervisor and choose the contents
+*   ~~Thesis registration form - **December 01**, 2023~~
+*   ~~Consult with supervisor and choose the contents~~
 
-## Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice
+### ☑️ Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice 
 
 *   ~~**November 23** - Test~~
+
+### ☑️ Cryptography Protocols - Practice
+
+*   ~~**December 05** - Summary report, Proverif code, Presentation~~
+*   ~~Verify the security property of Attribute-based Encryption - <ins>[Paper](./Security_Verification_of_Key_Exchange_in_Ciphertext-Policy_Attribute_Based_Encryption.pdf)</ins>~~
 
 # Previous Weeks
 
