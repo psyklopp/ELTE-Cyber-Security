@@ -11,6 +11,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ## Cyber Security Lab 1
 
 *   Refer and update here: <ins>[GitHub Repo for CS Lab](https://github.com/psyklopp/Cyber-Security-Lab-1)</ins>
+*   Deadline for submission : **January 12, 2024**
 *   ☑️ November end - Give an update
 
 ## Advanced Cryptography - Lecture
@@ -21,18 +22,18 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ## Cryptography Protocols - Lecture
 
 *   ~~November 17 - Quiz 2~~
-*   **December 08** - Quiz 3
+*   ~~**December 08** - Quiz 3~~
 *   **December 15** - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
 
 ## Cryptography - Lecture
 
-*   Only an Oral exam
-*   **Date** - Not known. Ask classmates
+*   ~~Only an Oral exam~~ Written Exam
+*   Register on Neptune for exam dates
 
 ## Cryptography - Practice
 
 *   Test and Assigments - redo the worksheets
-*   **December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session
+*   **December 11 - Exam** - ~~▶️ Friday - 14:00 - 16:00 Revision session~~
 *   ~~Ask about the date~~ 
 
 ### Others
