@@ -32,8 +32,8 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 ## Cryptography - Practice
 
-*   Test and Assigments - redo the worksheets
-*   **December 11 - Exam** - ~~▶️ Friday - 14:00 - 16:00 Revision session~~
+*   Assignments
+*   ~~**December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session~~
 *   ~~Ask about the date~~ 
 
 ### Others
