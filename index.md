@@ -19,16 +19,11 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   Presentation on the topic: <ins>[Demystifying the Role of zk-SNARKs in Zcash](https://arxiv.org/pdf/2008.00881.pdf)</ins>
 *   Deadline for submission : **January 15, 2024**
 
-## Cryptography Protocols - Lecture
-
-*   ~~November 17 - Quiz 2~~
-*   ~~**December 08** - Quiz 3~~
-*   **December 15** - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>
-
 ## Cryptography - Lecture
 
-*   ~~Only an Oral exam~~ Written Exam
-*   Register on Neptune for exam dates
+*   **December 20 - Wednesday 9:00 A.M.** - Written Exam
+*   ~~Only an Oral exam~~ 
+*   ~~Register on Neptune for exam dates~~
 
 ## Cryptography - Practice
 
@@ -44,6 +39,12 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 ### ☑️ Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice 
 
 *   ~~**November 23** - Test~~
+
+### ☑️ Cryptography Protocols - Lecture
+
+*   ~~November 17 - Quiz 2~~
+*   ~~**December 08** - Quiz 3~~
+*   ~~**December 15** - Paper Presentation: Zeph - <ins>[Cryptographic enforcement of end-to-end data privacy](./Zeph-Cryptographic_enforcement_of_end-to-end_data_privacy.pdf)</ins>~~
 
 ### ☑️ Cryptography Protocols - Practice
 
