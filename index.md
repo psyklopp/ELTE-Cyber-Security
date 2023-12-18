@@ -30,7 +30,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   ~~Thesis registration form - **December 01**, 2023~~
 *   ~~Consult with supervisor and choose the contents~~
 
-### Cryptography - Practice
+### ☑️ Cryptography - Practice
 
 *   ~~Assignments~~
 *   ~~**December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session~~
