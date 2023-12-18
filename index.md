@@ -25,16 +25,16 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   ~~Only an Oral exam~~ 
 *   ~~Register on Neptune for exam dates~~
 
-## Cryptography - Practice
-
-*   Assignments
-*   ~~**December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session~~
-*   ~~Ask about the date~~ 
-
 ### Others
 
 *   ~~Thesis registration form - **December 01**, 2023~~
 *   ~~Consult with supervisor and choose the contents~~
+
+### Cryptography - Practice
+
+*   ~~Assignments~~
+*   ~~**December 11 - Exam** - ▶️ Friday - 14:00 - 16:00 Revision session~~
+*   ~~Ask about the date~~ 
 
 ### ☑️ Provably Secure Modular Design of Cryptographic Protocols - Lecture and Practice 
 
