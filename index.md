@@ -19,17 +19,17 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 *   Presentation on the topic: <ins>[Demystifying the Role of zk-SNARKs in Zcash](https://arxiv.org/pdf/2008.00881.pdf)</ins>
 *   Deadline for submission : **January 15, 2024**
 
-## Cryptography - Lecture
-
-*   **December 20 - Wednesday 9:00 A.M.** - Written Exam
-*   ~~Only an Oral exam~~ 
-*   ~~Register on Neptune for exam dates~~
-
 ### Others
 
 *   ~~Thesis registration form - **December 01**, 2023~~
 *   ~~Consult with supervisor and choose the contents~~
 
+### Cryptography - Lecture
+
+*   ~~**December 20 - Wednesday 9:00 A.M.** - Written Exam~~
+*   ~~Only an Oral exam~~ 
+*   ~~Register on Neptune for exam dates~~
+  
 ### ☑️ Cryptography - Practice
 
 *   ~~Assignments~~
