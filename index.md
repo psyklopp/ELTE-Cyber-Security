@@ -12,7 +12,7 @@ This site is still under construction. Some <ins>[words](./about.html)</ins> abo
 
 *   Refer and update here: <ins>[GitHub Repo for CS Lab](https://github.com/psyklopp/Cyber-Security-Lab-1)</ins>
 *   Deadline for submission : **January 12, 2024**
-*   ☑️ November end - Give an update
+*   ~~☑️ November end - Give an update~~
 
 ## Advanced Cryptography - Lecture
 
